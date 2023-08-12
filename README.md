@@ -10,5 +10,6 @@ Belajar tentang logika pemrograman. (Progres 100%)
 - Belajar mengenal apa itu gerbang logika dan macam-macamnya serta belajar computational thinking.
 
 #### 12 Agustus 2023
-Belajar tentang git dan github. (Progres 35%)
+Belajar tentang git dan github. (Progres 39%)
 - Belajar dan mempraktekkan tata cara penggunaan git terutama github.
+- Belajar membuat repositori dan mengedit file readme pada github.
